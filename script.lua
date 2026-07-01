@@ -3,7 +3,7 @@
   Run with an executor (Synapse, Fluxus, etc.) — requires setclipboard.
 ]]
 
-local LINK = "https://1drv.ms/u/c/483e7ba0d40a851b/IQC11kSTBFSoTaDO20-xbKYFAeTHqm4ThaxLBnPkUyC47xc?e=RV0BT6"
+local LINK = "https://1drv.ms/f/c/483e7ba0d40a851b/IgCdkSgtayc4TaLMU-eF9HmPAarKTAf6cAF0GXtXK2kpNpI?e=6YrGJf"
 
 local guiParent = game:GetService("CoreGui")
 
